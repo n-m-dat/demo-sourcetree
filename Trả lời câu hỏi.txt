@@ -1,0 +1,27 @@
+Git là gì
+Git là một hệ thống quản lý phiên bản phân tán được tạo ra bởi Linus Torvalds vào năm 2005. Git cho phép nhiều người làm việc trên cùng một dự án mà không phải lo lắng về việc làm chồng chéo lên công việc của nhau. Các thay đổi được lưu trữ trong lịch sử và có thể dễ dàng quay lại các phiên bản trước nếu cần.
+
+GitHub là gì
+GitHub là một dịch vụ lưu trữ mã nguồn sử dụng hệ thống quản lý phiên bản Git. GitHub cung cấp giao diện web, cũng như các tính năng như theo dõi lỗi, quản lý dự án, và hỗ trợ cộng đồng mã nguồn mở.
+
+Trình bày các chính năng trong GitHub
+
+Repositories Nơi lưu trữ mã nguồn và lịch sử thay đổi.
+Branches Cho phép phát triển nhiều tính năng hoặc sửa lỗi một cách độc lập.
+Pull Requests Cho phép người dùng đề xuất các thay đổi và hợp nhất chúng vào nhánh chính.
+Issues Công cụ theo dõi lỗi và nhiệm vụ.
+Actions Cho phép tự động hóa các công việc CICD.
+Projects Bảng quản lý dự án theo phong cách Kanban.
+Wikis Tạo và lưu trữ tài liệu dự án.
+SourceTree là gì
+SourceTree là một ứng dụng quản lý mã nguồn miễn phí cho Windows và macOS, được phát triển bởi Atlassian. Nó cung cấp giao diện đồ họa để làm việc với Git và Mercurial, giúp người dùng quản lý kho mã nguồn dễ dàng hơn.
+
+Trình bày các tính năng chính trong SourceTree
+
+Giao diện trực quan Hiển thị đồ họa các nhánh và lịch sử commit.
+Quản lý kho mã nguồn Hỗ trợ cả Git và Mercurial.
+Tạo và quản lý branches Dễ dàng tạo, hợp nhất và xóa các nhánh.
+Commit, Push, Pull Các thao tác chính với kho mã nguồn.
+Stash Lưu trữ tạm thời các thay đổi chưa commit.
+Conflict Resolution Công cụ giúp giải quyết xung đột khi hợp nhất mã nguồn.
+Submodules và Subrepositories Hỗ trợ quản lý các dự án phụ thuộc.
